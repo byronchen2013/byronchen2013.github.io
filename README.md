@@ -1,2 +1,3 @@
 # byronchen2013.github.io
-byron_chen@uniasia.com.cn专用github
+专用github
+用于测试各种方法。
