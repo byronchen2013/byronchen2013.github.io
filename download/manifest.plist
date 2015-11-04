@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+   <key>items</key>
+   <array>
+       <dict>
+           <key>assets</key>
+           <array>
+               <dict>
+                   <key>kind</key>
+                   <string>software-package</string>
+                   <key>url</key>
+                   <string>http://192.168.1.138:8085/ipm_app/jsp/appDownload/c7814e3a7260b3ec174433638709926e.ipa</string>
+               </dict>
+               <dict>
+                   <key>kind</key>
+                   <string>display-image</string>
+                   <key>needs-shine</key>
+                   <true/>
+                   <key>url</key>
+                   <string>http://192.168.1.138:8085/ipm_app/jsp/appDownload/108.png</string>
+               </dict>
+           </array>
+           <key>metadata</key>
+           <dict>
+               <key>bundle-identifier</key>
+               <string>org.uniasia.ipmCo</string>
+               <key>bundle-version</key>
+               <string>3.7.5</string>
+               <key>kind</key>
+               <string>software</string>
+               <key>subtitle</key>
+               <string>App Subtitle</string>
+               <key>title</key>
+               <string>App Title</string>
+           </dict>
+       </dict>
+   </array>
+</dict>
+</plist>
